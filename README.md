@@ -1,1 +1,1 @@
-# wireless_speaker
+smart speaker
